@@ -28,7 +28,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Student at CETZ and ALX SE program a full stack developer and an aspiring software engineer</h2></summary>
+    <summary><h2 style="display: inline-block">software engineer and ALX grad</h2></summary>
   </ul>
 </div>
 
